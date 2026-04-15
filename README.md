@@ -1,4 +1,4 @@
-## Selenium Automation Suite
+## Selenium Automation Suite  
 
 ## .)Project Overview
 This project is a collection of Selenium-based automation scripts developed to demonstrate modern web automation techniques using Selenium 4, explicit waits, proper exception handling, and cross-platform compatibility.
